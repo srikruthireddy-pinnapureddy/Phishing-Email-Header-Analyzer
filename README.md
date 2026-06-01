@@ -69,7 +69,3 @@ Important: Do not commit real credentials. Replace secrets with environment vari
 
 ## License
 This project is published under the existing LICENSE file in the repository.
-
----
-
-If you want, I can further expand any section (detailed deployment, examples, or a minimal CI/PR checklist).
